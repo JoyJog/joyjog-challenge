@@ -1,4 +1,4 @@
-# Joyjog Unity Challenge
+# Joyjog Game Design Challenge
 
 Olá,
 Primeiramente, obrigado pelo seu tempo. A seguir, explicaremos sobre o desafio.
