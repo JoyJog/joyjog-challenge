@@ -29,7 +29,7 @@ Este repositório é um [Template](https://docs.github.com/en/repositories/creat
 - Seu usuário deve ser o **proprietário**
 - Ao usar o modelo, selecione a opção `Incluir todas as branches` para fazer download de todas as branches do repositório.
 - Depois de criar o repositório privado a partir do templace, você deve usar os arquivos na branch `main`.
-- Se não especificarem uma branch, você deve usar os arquivos que estão na `master`
+- Se não especificarem uma branch, você deve usar os arquivos que estão na `main`
 - O repositório deve ser `privado`
 - Depois que terminar compartilhe o desafio conosco adicione o usuário: **aquinoWill**
 - Envie um email para o recrutador avisando do terminio do teste para ser análisado.
